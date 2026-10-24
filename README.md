@@ -269,4 +269,4 @@ This repository serves as the official landing page for Thunderstore. The softwa
 **Get the most recent version of Thunderstore today!**
 
 ---
-**Last updated:** 2026-10-24 10:24:55 UTC
+**Last updated:** 2026-10-24 14:17:24 UTC
